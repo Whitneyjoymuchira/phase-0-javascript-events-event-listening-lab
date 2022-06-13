@@ -1,4 +1,4 @@
 let input 
 function addingEventListener(){
-    input = document.querySelector("#input").addEventListener("click", (input))
+    input = document.getElementById("input").addEventListener("click", (input))
 }
